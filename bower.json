@@ -1,0 +1,26 @@
+{
+  "name": "once.Ninja.JS",
+  "version": "0.0.0",
+  "authors": [
+    "Cleber de Moraes Goncalves <cleber.programmer@hotmail.com>"
+  ],
+  "description": "Once garante que uma determinada função só pode ser chamada uma vez e evitando a inicialização duplicada",
+  "main": "once.js",
+  "keywords": [
+    "javascript"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/Bibizzy/once.Ninja.JS",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "Ninja.JS": "*",
+    "always.Ninja.JS": "*",
+    "apply.Ninja.JS": "*"
+  }
+}
